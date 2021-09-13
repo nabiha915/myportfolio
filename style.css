@@ -95,7 +95,7 @@ h1 {
   position: relative;
   width: 100%;
   height: 100%;
-  background-image: url("https://drive.google.com/file/d/1CidEUFizLvDo941ZYOAduoAk-ddtmxVv/view?usp=sharing");
+  background-image: url("img/mee.png");
 
   background-repeat: no-repeat;
   background-size: contain;
@@ -130,7 +130,7 @@ h1 {
 
 .split.right {
   right: 0;
-  background: url("https://images.unsplash.com/photo-1483058712412-4245e9b90334?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80");
+  background: url("img/projects.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
 }
